@@ -1,8 +1,8 @@
-# Stand-In-Front-Of-Scenery-Editor
-An editor for https://github.com/crazoter/Stand-In-Front-Of-Scenery-Slideshow.
+# Scenery Traveller Editor
+An editor for https://github.com/crazoter/Scenery-Traveller.
 
 Demo:
-http://crazoter.github.io/Stand-In-Front-Of-Scenery-Editor/editor.html.
+http://crazoter.github.io/Scenery-Traveller-Editor/editor.html.
 
 # Features
 1. **Image editor**: An image editor on HTML5. It's quite comprehensive.
@@ -14,7 +14,7 @@ http://crazoter.github.io/Stand-In-Front-Of-Scenery-Editor/editor.html.
 1. Uses Imgur API to store any user created content.
 
 # Demo
-http://crazoter.github.io/Stand-In-Front-Of-Scenery-Editor/editor.html
+http://crazoter.github.io/Scenery-Traveller-Editor/editor.html
 
 License
 -----------------------
