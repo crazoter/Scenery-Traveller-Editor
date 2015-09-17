@@ -1,5 +1,5 @@
 # Scenery Traveller Editor
-An editor for https://github.com/crazoter/Scenery-Traveller.
+An editor for https://github.com/crazoter/Scenery-Traveller. Setup your own (or your friend's, if you're so much obliged) scenery traveller within a few minutes.
 
 Demo:
 http://crazoter.github.io/Scenery-Traveller-Editor/editor.html.
@@ -9,9 +9,10 @@ http://crazoter.github.io/Scenery-Traveller-Editor/editor.html.
 
 # Nonfeatures
 1. **Not Responsive**: This project was not designed to be responsive, only for use on a computer.
+2. **Requires Canvas**: This project requires a browser that supports HTML5 canvas to provide the image editing service.
 
 # Misc
-1. Uses Imgur API to store any user created content.
+1. Uses Imgur API to store any user created content... lol
 
 # Demo
 http://crazoter.github.io/Scenery-Traveller-Editor/editor.html
